@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Bolo de cenoura
+=======
+lasanha
+>>>>>>> d0d725cf924b05f3fc0bc52419d4de72e7a9abb9
